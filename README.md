@@ -1,4 +1,4 @@
-# Chatbot-NLP
+# ChatNLP
 
 Chatbot-NLP is an advanced rule-based chatbot project that integrates Natural Language Processing (NLP) techniques to enhance user interaction and responsiveness.
 
