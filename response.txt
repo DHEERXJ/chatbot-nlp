@@ -1,0 +1,17 @@
+ChatNLP: Hello! Type 'bye' to exit.
+You: hi
+ChatNLP: Hello! How can I help you today?
+You: how you aree
+ChatNLP: I'm just a bot, but I'm doing great! How can I assist you?
+You: what is time
+ChatNLP: The current time is 22:49:06.
+You: what is the date can you say
+ChatNLP: Today's date is 2024-07-02.
+You: what about weather
+ChatNLP: I'm not connected to the internet, so I can't provide real-time weather updates, but it's always a good idea to check a reliable weather website or app.
+You: yeah thnaks
+ChatNLP: I'm sorry, I don't understand that. Can you please rephrase?
+You: thanks
+ChatNLP: You're welcome! If you have any more questions, feel free to ask.
+You: bye
+ChatNLP: Goodbye! Have a great day!
