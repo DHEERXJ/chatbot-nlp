@@ -1,30 +1,36 @@
-# ChatBot-NLP
-"Chatbot-NLP: An Advanced NLP-Based Chatbot" is a project that showcases a sophisticated rule-based chatbot integrated with advanced natural language processing (NLP) capabilities. Here are some key features and aspects of the project:
+# Chatbot-NLP
 
-Key Features:
-Natural Language Understanding (NLU):
+Chatbot-NLP is an advanced rule-based chatbot project that integrates Natural Language Processing (NLP) techniques to enhance user interaction and responsiveness.
 
-Utilizes NLP techniques such as tokenization, stemming, and stopword removal to process user inputs effectively.
-Named Entity Recognition (NER):
+## Features
 
-Incorporates spaCy for identifying entities like names and dates within user queries, enhancing the bot's ability to understand specific information.
-Sentiment Analysis:
+- **Named Entity Recognition (NER)**: Identify entities like names, dates, and locations in user queries to provide more personalized responses.
+  
+- **Sentiment Analysis**: Analyze the sentiment of user inputs to tailor responses accordingly, ensuring a more empathetic interaction.
+  
+- **Predefined Responses**: Includes responses for common user queries such as greetings, inquiries about time and date, small talk, weather updates, and jokes, making the chatbot versatile and engaging.
+  
+- **Interactive Command-Line Interface**: Users can interact with the chatbot through a command-line interface, providing a straightforward and accessible user experience.
 
-Integrates TextBlob to analyze the sentiment of user inputs, enabling the chatbot to respond empathetically based on the user's mood.
-Predefined Responses:
+## Getting Started
 
-Offers predefined responses for common scenarios such as greetings, inquiries about time and date, expressing gratitude, weather inquiries, and providing humorous content like jokes.
-Interactive Experience:
+### Prerequisites
 
-Provides an interactive user experience through a command-line interface, where users can engage in conversations and receive informative and entertaining responses.
-Project Purpose:
-Educational and Demonstrative: Designed to showcase the capabilities of integrating NLP into chatbots, demonstrating how these technologies can be applied to enhance user interaction and responsiveness.
+- Python 3.x
+- Libraries: nltk, spacy, textblob
 
-Skill Development: Aims to improve skills in natural language processing, rule-based systems, and software development by implementing and refining various NLP techniques.
+Install dependencies using:
+```bash
+pip install -r requirements.txt
+Installation
+Clone the repository:
 
-Potential Extensions:
-Integration with APIs: Expand functionality by integrating with external APIs for real-time data retrieval, such as weather forecasts or news updates.
+git clone https://github.com/dheerxj/Chatbot-NLP.git
+cd Chatbot-NLP
 
-User Interface Enhancement: Develop a graphical user interface (GUI) for a more intuitive and engaging user experience beyond the command-line interface.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Machine Learning Integration: Explore the integration of machine learning models for intent recognition and context-aware responses.
+Acknowledgments
+Built using Python, nltk, spacy, and TextBlob.
+Inspired by the need for advanced NLP capabilities in chatbots.
